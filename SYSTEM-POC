@@ -1,0 +1,12 @@
+# system-poc
+Briefing AI Extra
+```bash
+https://miro.com/app/board/uXjVKkoAVHs=/
+```
+I like the way Dovetail allows you to search across all your docs or per project.  A user can select/filter a specific project to do a search .We need to consider tagging and linking files together (+ the permission issue). It would be nice to also show the sources that the chat response has used with a link to each when providing a response. I personally think that saving chats is a minefield... Each chat could be a fresh query from the data.
+```bash
+https://globalappsportal-my.sharepoint.com/my?id=%2Fpersonal%2Fdavid%5Fboucher%5Fdentsu%5Fcom2%2FDocuments%2Ftest
+https://link.excalidraw.com/l/1xEejoHqqML/ZqvXbENc1R
+https://learn.microsoft.com/en-us/graph/auth/
+```
+Does the POC include uploading files? Do we "tag" them to the session, or are we thinking of creating a sharepoint folder if the user goes via this path?
